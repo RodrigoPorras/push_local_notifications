@@ -1,16 +1,21 @@
 # push_local_notifications
 
-A new Flutter project.
+App to test push and local notifications
 
-## Getting Started
+- FMC - Firebase cloud messaging
+- Push Notifications
+- Notifications 
+- Notifications when the app is open
+- Notifications when the app is in the background or finished
+- Use the GlobalKey to manage navigation
+- Firebase REST service for sending push notifications
+- Sending arguments in the push notification
+- Use of push arguments
 
-This project is a starting point for a Flutter application.
+Local Notification
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/RodrigoPorras/push_local_notifications/blob/master/gif/local.gif" height="500" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Push Notification
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/RodrigoPorras/push_local_notifications/blob/master/gif/push.gif" height="500" />
